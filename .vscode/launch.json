@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open v.html",
+            "file": "c:\\Users\\Noych\\OneDrive\\שולחן העבודה\\אישי\\תואר\\שנה ג\\סמסטר א\\פיתוח אפליקציות סלולריות\\שיעור מספר 1\\whNomberone\\hw11\\hw1\\v.html"
+        }
+    ]
+}
